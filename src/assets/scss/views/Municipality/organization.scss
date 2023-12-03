@@ -1,0 +1,17 @@
+.organization{
+  &-form{
+
+  }
+  &-group-number{
+    > div{
+      .form-group{
+        .row{
+          margin: 0;
+        }
+      }
+    }
+    & textarea{
+      height: 3.85rem !important;
+    }
+  }
+}

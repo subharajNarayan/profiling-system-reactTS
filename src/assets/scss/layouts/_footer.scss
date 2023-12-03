@@ -1,0 +1,15 @@
+  footer{
+    ul{
+      li{
+        a{
+          padding-right: 0px !important;
+          outline: none !important;
+          color: #252627 !important;
+          padding-left: 6px !important;
+          &:hover{
+            color: #3498db !important;
+          }
+        }
+      }
+    }
+  }
